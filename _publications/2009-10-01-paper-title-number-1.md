@@ -1,15 +1,23 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+## International Conference Proceedings (refereed)
+1. <u>Zhenlei Wang</u>, Jingseng Zhang, Hongteng Xu, Xu Chen, Yongfeng Zhang, Wayne Xin Zhao and Ji-Rong Wen. <br>
+**Counterfactual Data-Augmented Sequential Recommendation** <br>
+_International Conference on Research on Development in Information Retrieval ([SIGIR2021](http://sigir.org/sigir2021/))_. (Acceptance rate=21.5%)<br>
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
+2. <u>Zhenlei Wang</u>, Suyun Zhao, Zheng Li, Hong Chen, Cuiping Li and Yufeng Shen. <br>
+**Ensemble selection with joint spectral clustering and structural sparsity** <br>
+_Pattern Recognition ([PR2021](www.elsevier.com/locate/patcog))_. <br>
+
+3. <u>Zhenlei Wang</u>, Suyun Zhao, Liu Yangming, Hong Chen, Cuiping Li and  Sun Xiran. <br>
+**Fuzzy Rough Based Feature Selection by Using Random Sampling** <br>
+_Pacific Rim International Conference on Artificial Intelligence([PRICAI2018](https://www.springer.com/cn/book/9783319973036))_. <br>
+
+
+## Journals
