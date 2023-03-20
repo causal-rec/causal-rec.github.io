@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhenlei Wang / The best choice is Now"
+title                    : "Zhenlei Wang"
 title_separator          : "/"
 name                     : &name "Zhenlei Wang"
 description              : &description "personal description"
