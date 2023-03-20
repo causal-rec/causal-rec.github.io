@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Zhenlei Wang / The best choice is Now"
-title_separator          : "-"
+title_separator          : "/"
 name                     : &name "Zhenlei Wang"
 description              : &description "personal description"
 url                      : https://lamdba-rec.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
