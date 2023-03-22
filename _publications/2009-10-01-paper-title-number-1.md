@@ -8,7 +8,11 @@ author_profile: true
 ## Recommender System
 <u>Zhenlei Wang</u>, Xu Chen. <br>
 **Robust Recommendation with Adversarial Gaussian Data Augmentation** <br>
-_International World Wide Web Conference([The Web Conference2023](https://www2023.thewebconf.org/))_. <br>
+_International World Wide Web Conference([The Web Conference 2023](https://www2023.thewebconf.org/))_. <br>
+
+<u>Zhenlei Wang</u>, Xu Chen, Rui Zhou, Quanyu Dai, Zhenhua Dong, Ji-rong Wen <br>
+**Sequential Recommendation with User Causal Behavior Discovery** <br>
+_The 39th IEEE International Conference on Data Engineering ([ICDE2023](https://icde2023.ics.uci.edu/))_. <br>
 
 <u>Zhenlei Wang</u>, Jingseng Zhang, Hongteng Xu, Xu Chen, Yongfeng Zhang, Wayne Xin Zhao and Ji-Rong Wen. <br>
 **Counterfactual Data-Augmented Sequential Recommendation** <br>
