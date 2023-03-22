@@ -35,5 +35,5 @@ My main research interests is to build robust and reliable causal models, as wel
   - Digital Media Art in School of Animation and Digital Arts
 
 # News
---2023-02-10 One paper on recommender system got accepted by TheWebConf 2023.
+--2023-02-10 One paper on recommender system got accepted by TheWebConf 2023.  
 --2021-04-15 One paper on recommender system got accepted by SIGIR 2021.
