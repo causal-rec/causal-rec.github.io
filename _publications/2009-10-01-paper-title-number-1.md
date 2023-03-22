@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Recommender System
+<u>Zhenlei Wang</u>, Xu Chen. <br>
+**Robust Recommendation with Adversarial Gaussian Data Augmentation** <br>
+_International World Wide Web Conference([The Web Conference2023](https://www2023.thewebconf.org/))_. <br>
+
 <u>Zhenlei Wang</u>, Jingseng Zhang, Hongteng Xu, Xu Chen, Yongfeng Zhang, Wayne Xin Zhao and Ji-Rong Wen. <br>
 **Counterfactual Data-Augmented Sequential Recommendation** <br>
 _International Conference on Research on Development in Information Retrieval ([SIGIR2021](http://sigir.org/sigir2021/))_. (Acceptance rate=21.5%)<br>
