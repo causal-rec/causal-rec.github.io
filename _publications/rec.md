@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "Recommender System"
+title: ""
 collection: publications
 permalink: /publication/
 author_profile: true
 ---
+
+# Recommender System
 ## <u><font color="#0000dd">2023</font></u>
 
 - **Robust Recommendation with Adversarial Gaussian Data Augmentation** <br>
@@ -45,8 +47,9 @@ author_profile: true
   <u><font color="#dd0000">Zhenlei Wang</font></u>, Suyun Zhao, Zheng Li, Hong Chen, Cuiping Li and Yufeng Shen. <br>
   _Pattern Recognition ([PR2021](www.elsevier.com/locate/patcog))_. <br>
 
-
 - **Fuzzy Rough Based Feature Selection by Using Random Sampling** <br>
   <u><font color="#dd0000">Zhenlei Wang</font></u>, Suyun Zhao, Liu Yangming, Hong Chen, Cuiping Li and  Sun Xiran. <br>
   _Pacific Rim International Conference on Artificial Intelligence([PRICAI2018](https://www.springer.com/cn/book/9783319973036))_. <br>
 
+# Causal Inference
+## <u><font color="#0000dd">2023</font></u>
