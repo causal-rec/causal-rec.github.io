@@ -54,6 +54,3 @@ author_profile: true
 
 ## Causal Inference
 ## <u><font color="#0000dd">2023 and Earlier</font></u>
-- **Fuzzy Rough Based Feature Selection by Using Random Sampling** <br>
-  <u><font color="#dd0000">Zhenlei Wang</font></u>, Suyun Zhao, Liu Yangming, Hong Chen, Cuiping Li and  Sun Xiran. <br>
-  _Pacific Rim International Conference on Artificial Intelligence([PRICAI2018](https://www.springer.com/cn/book/9783319973036))_. <br>
