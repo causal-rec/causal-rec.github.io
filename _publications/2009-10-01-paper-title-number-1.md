@@ -14,6 +14,10 @@ _International World Wide Web Conference([The Web Conference 2023](https://www20
 **Sequential Recommendation with User Causal Behavior Discovery** <br>
 _The 39th IEEE International Conference on Data Engineering ([ICDE2023](https://icde2023.ics.uci.edu/))_. <br>
 
+Xu Chen, <u>Zhenlei Wang</u>, Hongteng Xu, Jingsen Zhang, Yongfeng Zhang, Xin Zhao, Ji-Rong Wen <br>
+**Data Augmented Sequential Recommendation based on Counterfactual Thinking** <br>
+_IEEE Transactions on Knowledge and Data Engineering ([TKDE2023](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69))_. <br>
+
 <u>Zhenlei Wang</u>, Shiqi Shen, Zhipeng Wang, Bo Chen, Xu Chen, Ji-Rong Wen. <br>
 **Unbiased Sequential Recommendation with Latent Confounders** <br>
 _International World Wide Web Conference([The Web Conference 2022](https://www2022.thewebconf.org/))_. (Acceptance rate=17.7%)<br>
