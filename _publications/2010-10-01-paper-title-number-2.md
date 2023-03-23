@@ -1,7 +1,8 @@
 ---
 layout: archive
 title: "Causal Inference"
-permalink: /publications/
+collection: publications
+permalink: /publication/causal
 author_profile: true
 ---
 
