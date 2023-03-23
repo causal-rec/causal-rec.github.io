@@ -24,11 +24,11 @@ author_profile: true
 ## <u><font color="#0000dd">2022</font></u>
 
 - **Unbiased Sequential Recommendation with Latent Confounders** <br>
-  <u>Zhenlei Wang</u>, Shiqi Shen, Zhipeng Wang, Bo Chen, Xu Chen, Ji-Rong Wen. <br>
+  <u><font color="#dd0000">Zhenlei Wang</font></u>, Shiqi Shen, Zhipeng Wang, Bo Chen, Xu Chen, Ji-Rong Wen. <br>
   _International World Wide Web Conference([The Web Conference 2022](https://www2022.thewebconf.org/))_. (Acceptance rate=17.7%)<br>
 
 - **Sequential Recommendation with Decomposed Item Feature Routing** <br>
-  Kun Lin, <u>Zhenlei Wang</u>, Zhipeng Wang, Bo Chen, Shiqi Shen, Xu Chen. <br>
+  Kun Lin, <u><font color="#dd0000">Zhenlei Wang</font></u>, Zhipeng Wang, Bo Chen, Shiqi Shen, Xu Chen. <br>
   _International World Wide Web Conference([The Web Conference 2022](https://www2022.thewebconf.org/))_. (Acceptance rate=17.7%)<br>
 
 
