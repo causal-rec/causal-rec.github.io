@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Recommender System
-### <u><font color="#0000dd">2023</font></u>
+# Recommender System
+## <u><font color="#0000dd">2023</font></u>
 
 - **Robust Recommendation with Adversarial Gaussian Data Augmentation** <br>
   <u><font color="#dd0000">Zhenlei Wang</font></u>, Xu Chen. <br>
@@ -21,7 +21,7 @@ author_profile: true
   Xu Chen, <u><font color="#dd0000">Zhenlei Wang</font></u>, Hongteng Xu, Jingsen Zhang, Yongfeng Zhang, Xin Zhao, Ji-Rong Wen <br>
   _IEEE Transactions on Knowledge and Data Engineering ([TKDE2023](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69))_. <br>
 
-### <u><font color="#0000dd">2022</font></u>
+## <u><font color="#0000dd">2022</font></u>
 
 - **Unbiased Sequential Recommendation with Latent Confounders** <br>
   <u>Zhenlei Wang</u>, Shiqi Shen, Zhipeng Wang, Bo Chen, Xu Chen, Ji-Rong Wen. <br>
@@ -36,7 +36,7 @@ author_profile: true
   Zhidan Wang, Wenwen Ye, Xu Chen, Wenqiang Zhang, <u><font color="#dd0000">Zhenlei Wang</font></u>, Lixin Zou, Weidong Liu. <br>
   _International World Wide Web Conference([The Web Conference 2022](https://www2022.thewebconf.org/))_. (Acceptance rate=17.7%)<br>
 
-### <u><font color="#0000dd">2021 and earlier</font></u>
+## <u><font color="#0000dd">2021 and Earlier</font></u>
 
 - **Counterfactual Data-Augmented Sequential Recommendation** <br>
   <u><font color="#dd0000">Zhenlei Wang</font></u>, Jingseng Zhang, Hongteng Xu, Xu Chen, Yongfeng Zhang, Wayne Xin Zhao and Ji-Rong Wen. <br>
@@ -53,3 +53,7 @@ author_profile: true
 
 
 ## Causal Inference
+## <u><font color="#0000dd">2023 and Earlier</font></u>
+- **Fuzzy Rough Based Feature Selection by Using Random Sampling** <br>
+  <u><font color="#dd0000">Zhenlei Wang</font></u>, Suyun Zhao, Liu Yangming, Hong Chen, Cuiping Li and  Sun Xiran. <br>
+  _Pacific Rim International Conference on Artificial Intelligence([PRICAI2018](https://www.springer.com/cn/book/9783319973036))_. <br>
