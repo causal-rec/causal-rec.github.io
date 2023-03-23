@@ -1,3 +1,8 @@
+---
+layout: archive
+title: "Causal Inference"
+permalink: /publications/
+author_profile: true
+---
 
-## Causal Inference
-## <u><font color="#0000dd">2023 and Earlier</font></u>
+# <u><font color="#0000dd">2023</font></u>
