@@ -36,7 +36,7 @@ author_profile: true
   Zhidan Wang, Wenwen Ye, Xu Chen, Wenqiang Zhang, <u><font color="#dd0000">Zhenlei Wang</font></u>, Lixin Zou, Weidong Liu. <br>
   _International World Wide Web Conference([The Web Conference 2022](https://www2022.thewebconf.org/))_. (Acceptance rate=17.7%)<br>
 
-## <u><font color="#0000dd">2021 and Earlier</font></u>
+## <u><font color="#0000dd">2021</font></u>
 
 - **Counterfactual Data-Augmented Sequential Recommendation** <br>
   <u><font color="#dd0000">Zhenlei Wang</font></u>, Jingseng Zhang, Hongteng Xu, Xu Chen, Yongfeng Zhang, Wayne Xin Zhao and Ji-Rong Wen. <br>
@@ -45,6 +45,8 @@ author_profile: true
 - **Ensemble selection with joint spectral clustering and structural sparsity** <br>
   <u><font color="#dd0000">Zhenlei Wang</font></u>, Suyun Zhao, Zheng Li, Hong Chen, Cuiping Li and Yufeng Shen. <br>
   _Pattern Recognition ([PR2021](www.elsevier.com/locate/patcog))_. <br>
+
+## <u><font color="#0000dd">Earlier</font></u>
 
 - **Fuzzy Rough Based Feature Selection by Using Random Sampling** <br>
   <u><font color="#dd0000">Zhenlei Wang</font></u>, Suyun Zhao, Liu Yangming, Hong Chen, Cuiping Li and  Sun Xiran. <br>
