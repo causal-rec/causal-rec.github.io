@@ -8,7 +8,7 @@ author_profile: true
 ## Recommender System
 <u>Zhenlei Wang</u>, Xu Chen. <br>
 **Robust Recommendation with Adversarial Gaussian Data Augmentation** <br>
-_International World Wide Web Conference([The Web Conference 2023](https://www2023.thewebconf.org/))_. <br>
+_International World Wide Web Conference([The Web Conference 2023](https://www2023.thewebconf.org/))_. (Acceptance rate=19.2%)<br>
 
 <u>Zhenlei Wang</u>, Xu Chen, Rui Zhou, Quanyu Dai, Zhenhua Dong, Ji-Rong Wen <br>
 **Sequential Recommendation with User Causal Behavior Discovery** <br>
@@ -16,11 +16,11 @@ _The 39th IEEE International Conference on Data Engineering ([ICDE2023](https://
 
 <u>Zhenlei Wang</u>, Shiqi Shen, Zhipeng Wang, Bo Chen, Xu Chen, Ji-Rong Wen. <br>
 **Unbiased Sequential Recommendation with Latent Confounders** <br>
-_International World Wide Web Conference([The Web Conference 2022](https://www2022.thewebconf.org/))_. <br>
+_International World Wide Web Conference([The Web Conference 2022](https://www2022.thewebconf.org/))_. (Acceptance rate=17.7%)<br>
 
 Kun Lin, <u>Zhenlei Wang</u>, Zhipeng Wang, Bo Chen, Shiqi Shen, Xu Chen. <br>
 **Sequential Recommendation with Decomposed Item Feature Routing** <br>
-_International World Wide Web Conference([The Web Conference 2022](https://www2022.thewebconf.org/))_. <br>
+_International World Wide Web Conference([The Web Conference 2022](https://www2022.thewebconf.org/))_. (Acceptance rate=17.7%)<br>
 
 <u>Zhenlei Wang</u>, Jingseng Zhang, Hongteng Xu, Xu Chen, Yongfeng Zhang, Wayne Xin Zhao and Ji-Rong Wen. <br>
 **Counterfactual Data-Augmented Sequential Recommendation** <br>
