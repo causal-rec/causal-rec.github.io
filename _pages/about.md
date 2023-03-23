@@ -32,7 +32,7 @@ My main research interests is to build robust and reliable causal models, as wel
   - Research Topics: Feature selection, Ensemble Learning
 
 - **Communication University of Zhejiang** (2013-2017)
-  - Digital Media Art in School of Animation and Digital Arts
+  - Digital Media Art in [School of Animation and Digital Arts](http://dhxy.cuz.edu.cn/)
 
 # News
 --2023-02-10 One paper on recommender system got accepted by TheWebConf 2023.  
