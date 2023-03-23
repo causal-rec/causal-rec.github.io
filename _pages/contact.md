@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Awards"
+title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
