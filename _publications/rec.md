@@ -2,7 +2,7 @@
 layout: archive
 title: "Recommender System"
 collection: publications
-permalink: /publication/rec
+permalink: /publication/
 author_profile: true
 ---
 ## <u><font color="#0000dd">2023</font></u>
