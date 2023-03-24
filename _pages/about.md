@@ -34,10 +34,16 @@ My main research interests is to build robust and reliable causal models, as wel
 - **Communication University of Zhejiang** (2013-2017)
   - Digital Media Art in [School of Animation and Digital Arts](http://dhxy.cuz.edu.cn/)
 
-# Internship
+# Industry Experiences
 - **Tencent** (2021.05-2021.11)
+  - Research Intern
+  - Advisor: [Shiqi Shen](http://shenshiqi.com/academic/index_en.html)
+  - Research Topics: Video Recommender System
 
-- **KuaiShou** (2023.03-2023.9)
+- **KuaiShou** (2023.03-Now)
+  - Research Intern
+  - Advisor: Xiaoxiao Xu
+  - Research Topics: Video Recommender System
 
 # Academic Services
 ### Reviewer
