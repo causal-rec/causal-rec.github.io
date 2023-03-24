@@ -38,7 +38,7 @@ My main research interests is to build robust and reliable causal models, as wel
 - **Tencent** (2021.05-2021.11)
   - Research Intern
   - Advisor: [Shiqi Shen](http://shenshiqi.com/academic/index_en.html)
-  - Research Topics: Video Recommender System
+  - Research Topics: Wechat Channels Video Recommender System
 
 - **KuaiShou** (2023.03-Now)
   - Research Intern
