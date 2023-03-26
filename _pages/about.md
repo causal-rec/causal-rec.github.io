@@ -22,7 +22,7 @@ My main research interests is to build robust and reliable causal models, as wel
 
 # Education
 - **Renmin University Of China** (2020-2024)
-  - Incoming Ph.D. Student in the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/)
+  - Ph.D. Candidate in the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/)
   - Supervisor: [Xu Chen](http://xu-chen.com/)
   - Research Topics: Recommendation System, Causal Inference
 
