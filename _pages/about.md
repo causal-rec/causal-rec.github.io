@@ -12,7 +12,7 @@ redirect_from:
 I am studying for a Ph.D. in Gaoling School of Artificial Intelligence at Renmin University of China, where I am supervised by [Xu Chen](http://xu-chen.com/). 
 
 # Research Interests
-My main research interests is to build robust and reliable causal models, as well as their applications in recommendation systems. Specifically, I mainly focus on the covariate adjustment algorithms, robust causal effect algorithms, and algorithms for generating unobservable confounders under representation learning. In the context of recommendation systems, I focus on using causal inference mechanisms to build unbiased, robust, and causal interpretable recommendation models. I also focus on causal discovery, causal structure learning, and causal deep learning, and I hope to make some attempts and explorations in these areas.
+My primary research interests lie in developing robust and reliable causal models and their applications in recommendation systems. Specifically, I focus on covariate adjustment algorithms, robust causal effect algorithms, and algorithms for generating unobservable confounders under representation learning. In the context of recommendation systems, I aim to leverage causal inference mechanisms to build unbiased, robust, and causally interpretable recommendation models. Additionally, I explore causal discovery, causal structure learning, and causal deep learning, with the intention of making novel attempts and explorations in these areas.
 - Recommendation System
     - Sequential Recommendation System
     - General Recommendation System
